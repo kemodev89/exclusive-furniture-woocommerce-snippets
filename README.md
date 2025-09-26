@@ -28,11 +28,6 @@ These snippets were designed to improve **performance, automation, and user expe
 - `snippets/price-badges.php` – sale/clearance badge handling  
 - `snippets/db-cleanup.php` – safe DB cleanup scripts  
 
----
-
-## 📸 Screenshots
-![Product Page SKU](screenshots/sku-display.png)  
-![Store Locator](screenshots/store-locator.png)  
 
 ---
 
